@@ -51,6 +51,7 @@ Start the development server:
 
 ```bash
 npm start
+```
 
 ---
 
@@ -58,3 +59,13 @@ npm start
 
 The application will launch on the URL:
 http://localhost:3000
+
+---
+
+## Application Instructions
+
+Select the green button labeled 'Select Image' at the bottom of the page.
+
+This will prompt your file explorer. Select any image file in a JPEG or PNG format.
+
+
