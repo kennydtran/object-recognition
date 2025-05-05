@@ -73,6 +73,7 @@ https://cpsc481objectrecognition.netlify.app/
 
 - Select the green button labeled 'Select Image' at the bottom of the page.
 - This will prompt your file explorer. Select any image file in a JPEG or PNG format.
+  - Test images can be found in the .zip file. 
 
 Let the AI process the image.
 
