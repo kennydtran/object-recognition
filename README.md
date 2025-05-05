@@ -4,7 +4,7 @@ This is a React application that performs object detection on images using Tenso
 
 ---
 
-## 📋 System Requirements
+## System Requirements
 
 - **Operating System:** Windows 10/11, macOS, or Linux  
 - **Node.js:** v18.x or higher  
@@ -13,7 +13,7 @@ This is a React application that performs object detection on images using Tenso
 
 ---
 
-## 🧰 Language / Frameworks / Libraries
+## Language / Frameworks / Libraries
 
 - **Language:** HTML, CSS, JavaScript
 - **Framework:** React (via `create-react-app`)
@@ -23,7 +23,7 @@ This is a React application that performs object detection on images using Tenso
 
 ---
 
-## 🛠 Installation Instructions
+## Installation Instructions
 
 1. **Extract the Project**
    - Unzip the provided `.zip` file into any directory on your system.
@@ -45,9 +45,16 @@ This is a React application that performs object detection on images using Tenso
 
 ---
 
-## 🚀 Running the Application
+## Running the Application
 
 Start the development server:
 
 ```bash
 npm start
+
+---
+
+## Launch the Application
+
+The application will launch on the URL:
+http://localhost:3000
