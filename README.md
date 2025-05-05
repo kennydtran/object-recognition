@@ -9,19 +9,17 @@ This is a React application that performs object detection on images using Tenso
 - **Operating System:** Windows 10/11, macOS, or Linux  
 - **Node.js:** v18.x or higher  
 - **npm:** v9.x or higher  
-- **Browser:** Latest version of Chrome, Firefox, or Edge
+- **Browser:** Latest version of Chrome, Firefox, Safari, or Edge
 
 ---
 
 ## 🧰 Language / Frameworks / Libraries
 
-- **Language:** JavaScript (React)
+- **Language:** HTML, CSS, JavaScript
 - **Framework:** React (via `create-react-app`)
 - **Libraries Used:**
   - `@tensorflow-models/coco-ssd`
-  - `@tensorflow/tfjs`
   - `styled-components`
-  - `react`, `react-dom`, `react-scripts`
 
 ---
 
