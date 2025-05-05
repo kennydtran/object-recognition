@@ -57,15 +57,24 @@ npm start
 
 ## Launch the Application
 
-The application will launch on the URL:
+After running the environment, the application is accessible at the following URL:
+
 http://localhost:3000
+
+OR
+
+Without running the environment, the application is accessible at the following URL:
+
+https://cpsc481objectrecognition.netlify.app/
 
 ---
 
 ## Application Instructions
 
-Select the green button labeled 'Select Image' at the bottom of the page.
+- Select the green button labeled 'Select Image' at the bottom of the page.
+- This will prompt your file explorer. Select any image file in a JPEG or PNG format.
 
-This will prompt your file explorer. Select any image file in a JPEG or PNG format.
+Let the AI process the image.
+
 
 
